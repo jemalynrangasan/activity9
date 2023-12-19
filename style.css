@@ -1,0 +1,31 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+header{
+    background-color: cadetblue;
+    padding: 5px;
+    display: flex;
+    flex-direction:row;
+    justify-content: space-around;
+    align-items: center;
+}
+h1{
+    background-color: lightgray;
+    padding: 3px;
+}
+nav{
+    padding: 3px;
+   
+}
+nav{
+    display: flex;
+    flex-direction: row;
+}
+a{
+    margin-left: 10px;
+    margin-right: 10px;
+    padding-left: 25px;
+    text-transform: uppercase;
+    text-decoration: none;
+    border: 2px solid green;
+}
